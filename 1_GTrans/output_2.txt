@@ -1,0 +1,38 @@
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+FPS: nan   image ROCAUC: nan   pixel ROCAUC: nan
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+FPS: nan   image ROCAUC: nan   pixel ROCAUC: nan
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+bottle: image ROCAUC: 0.999   pixel ROCAUC: 0.958
+FPS: 6.133   image ROCAUC: 0.9992   pixel ROCAUC: 0.9577
+
+#------ index0.9_200_decoder_2layer_0.001 ------#
+bottle: image ROCAUC: 0.996   pixel ROCAUC: 0.772
+FPS: 6.270   image ROCAUC: 0.9960   pixel ROCAUC: 0.7715

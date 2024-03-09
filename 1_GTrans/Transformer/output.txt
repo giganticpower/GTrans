@@ -1,0 +1,18 @@
+
+#------ base_model_index: 01*12 ------#
+capsule: image ROCAUC: 0.964   pixel ROCAUC: 0.983
+hazelnut: image ROCAUC: 1.000   pixel ROCAUC: 0.984
+metal_nut: image ROCAUC: 0.993   pixel ROCAUC: 0.971
+pill: image ROCAUC: 0.952   pixel ROCAUC: 0.986
+screw: image ROCAUC: 0.954   pixel ROCAUC: 0.986
+toothbrush: image ROCAUC: 1.000   pixel ROCAUC: 0.984
+transistor: image ROCAUC: 0.976   pixel ROCAUC: 0.926
+zipper: image ROCAUC: 0.991   pixel ROCAUC: 0.986
+carpet: image ROCAUC: 1.000   pixel ROCAUC: 0.989
+grid: image ROCAUC: 0.986   pixel ROCAUC: 0.987
+leather: image ROCAUC: 1.000   pixel ROCAUC: 0.994
+tile: image ROCAUC: 0.990   pixel ROCAUC: 0.953
+wood: image ROCAUC: 0.996   pixel ROCAUC: 0.971
+bottle: image ROCAUC: 1.000   pixel ROCAUC: 0.981
+cable: image ROCAUC: 0.997   pixel ROCAUC: 0.965
+FPS: 9.701   image ROCAUC: 0.9866   pixel ROCAUC: 0.9764
